@@ -127,11 +127,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taasezer&radius=16&theme=lucent&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
-</div>
 
 ###
 
@@ -143,13 +138,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/taasezer/taasezer/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31u4rw3ksweno2j7w6vzsh26rqpi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31u4rw3ksweno2j7w6vzsh26rqpi&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
 
